@@ -1,0 +1,11 @@
+{"Junior Developer": {"firm": "Sole Proprietor", "dates": "March 2020 to Present", "location": "Denver", "Currently building": ["A social network with Vue and Firebase",
+"IT Asset Management system with React and MongoDB focused on reconciling with Fixed Asset Accounting", "Currency conversion app with React"], 
+"Completed the following projects for Harvard's CS50 online class through ed X": ["Created a Twitter-like application with Django, Python, and JavaScript", "Created a Wikipedia type application with Django, Python, and JavaScript",
+"Created an email application with JavaScript, HTML, and CSS",
+"Created a news radio website connecting to Twitter and Google API's using Python, SQL, Flask, Javascript, HTML, CSS",
+"Matched DNA sequences using python and SQL to a DNA database",
+"Recovered lost photos on a memory stick using C",
+"Created a message cryptography program in C",
+"Created a book review site using Python, SQL, HTML and CSS"
+]}, "Attorney":{"firm": "Kevin Schield Attorney at Law", "dates": "March 2011 to Present", "location": "Austin", "description": ["Co-Counsel for mineral title litigation including presenting oral arguments before the 4th Court of Appeals", "Advised a medical compliance company start-up on employment issues and other transactional matters and strategy"]}, "Risk Management Consultant": {"firm": "Protiviti, Inc.", "dates": "August 2005 to April 2007", "location": "Houston", "description": "Performed internal IT audits and Sarbanes-Oxley compliance testing"}
+}
